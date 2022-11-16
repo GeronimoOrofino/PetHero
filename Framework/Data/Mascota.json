@@ -1,0 +1,92 @@
+[
+    {
+        "nombre": "Baxter",
+        "raza": "Golden Retriever",
+        "tama\u00f1o": "Mediano",
+        "observaciones": "  hipermegaultraactivo",
+        "urlimagen": "41b935ce-c58b-4c38-8c0e-f7df27e67bc2.jpg",
+        "urlvacunacion": "88642f5f-be8e-4ecd-9081-92eab0082c45.jpg",
+        "urlvideo": "2022-04-25 23-02-46.mkv",
+        "DNI": "123352"
+    },
+    {
+        "nombre": "Fatiga",
+        "raza": "Desconocido",
+        "tama\u00f1o": "Mediano",
+        "observaciones": "  Duerme mucho",
+        "urlimagen": "20190317_012353.jpg",
+        "urlvacunacion": "20190317_012356.jpg",
+        "urlvideo": "2022-04-25 23-02-46.mkv",
+        "DNI": "123352"
+    },
+    {
+        "nombre": "roco",
+        "raza": "Golden Retriever",
+        "tama\u00f1o": "Mediano",
+        "observaciones": "  aaaaaa",
+        "urlimagen": "Capitana Amelia.png",
+        "urlvacunacion": "Capitana Amelia.png",
+        "urlvideo": "2022-04-25 23-02-46.mkv",
+        "DNI": "123352"
+    },
+    {
+        "nombre": "Coloso",
+        "raza": "Caniche",
+        "tama\u00f1o": "Chico",
+        "observaciones": "  a",
+        "urlimagen": "Capitana Amelia.png",
+        "urlvacunacion": "Capitana Amelia.png",
+        "urlvideo": "2022-04-25 23-02-46.mkv",
+        "DNI": "123352654524"
+    },
+    {
+        "nombre": "Rigoberto",
+        "raza": "Dogo",
+        "tama\u00f1o": "Mediano",
+        "observaciones": "  a",
+        "urlimagen": "",
+        "urlvacunacion": "",
+        "urlvideo": "",
+        "DNI": "0147"
+    },
+    {
+        "nombre": "polinesio",
+        "raza": "Caniche",
+        "tama\u00f1o": "Chico",
+        "observaciones": "  a",
+        "urlimagen": "",
+        "urlvacunacion": "",
+        "urlvideo": "",
+        "DNI": "0147"
+    },
+    {
+        "nombre": "frutilla",
+        "raza": "Grandanes",
+        "tama\u00f1o": "Grande",
+        "observaciones": "  le gusta volar",
+        "urlimagen": "",
+        "urlvacunacion": "",
+        "urlvideo": "",
+        "DNI": "0147"
+    },
+    {
+        "nombre": "Pitu\u00f1a de los pitu\u00f1en pilluen condeza de pitu\u00f1ienza",
+        "raza": "Gato",
+        "tama\u00f1o": "Grande",
+        "observaciones": "  mide lo mismo que un corsa",
+        "urlimagen": "",
+        "urlvacunacion": "",
+        "urlvideo": "",
+        "DNI": "122333"
+    },
+    {
+        "nombre": "pablo",
+        "raza": "Caniche",
+        "tama\u00f1o": "Chico",
+        "observaciones": "  se llama como mi ex, claramente es el menos favorito",
+        "urlimagen": "",
+        "urlvacunacion": "",
+        "urlvideo": "",
+        "DNI": "122333"
+    }
+]

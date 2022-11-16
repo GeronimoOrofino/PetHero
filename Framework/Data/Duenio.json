@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "Geronimo",
+        "direccion": "Alberti2312",
+        "DNI": "456",
+        "telefono": "4566"
+    },
+    {
+        "nombre": "Moni argento",
+        "direccion": "Colon1212",
+        "DNI": "123352",
+        "telefono": "111222"
+    },
+    {
+        "nombre": "David",
+        "direccion": "groenlandia12369",
+        "DNI": "122333",
+        "telefono": "456123"
+    },
+    {
+        "nombre": "Mononoke",
+        "direccion": "bosque12",
+        "DNI": "0147",
+        "telefono": "0147852"
+    }
+]

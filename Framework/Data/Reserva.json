@@ -1,0 +1,38 @@
+[
+    {
+        "Duenio": "0147",
+        "Mascota": "Rigoberto",
+        "Guardian": "123321",
+        "aceptada": "true",
+        "arraydedates": [
+            "2022-11-17",
+            "2022-11-18",
+            "2022-11-19"
+        ],
+        "id": 1
+    },
+    {
+        "Duenio": "123352",
+        "Mascota": "Fatiga",
+        "Guardian": "123321",
+        "aceptada": null,
+        "arraydedates": [
+            "2022-11-10",
+            "2022-11-11",
+            "2022-11-12"
+        ],
+        "id": 2
+    },
+    {
+        "Duenio": "0147",
+        "Mascota": "polinesio",
+        "Guardian": "147741",
+        "aceptada": "true",
+        "arraydedates": [
+            "2022-11-08",
+            "2022-11-09",
+            "2022-11-10"
+        ],
+        "id": 4
+    }
+]
